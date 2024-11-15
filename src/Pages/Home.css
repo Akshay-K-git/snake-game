@@ -24,7 +24,9 @@
   }
   
   .cell.food {
-    background-color: #f44336;
+    /* background-color: #f44336; */
+    background-image: url('https://freepng.com/uploads/images/202302/ree-vector-red-apple-png_1020x.jpg');
+    background-size: cover;
   }
   
   .game-over {

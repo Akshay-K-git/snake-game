@@ -18,7 +18,7 @@ function Header() {
               height='60px'
               alt=''
               loading='lazy'
-              className='border shadow' style={{borderRadius:'50%'}}
+              className='border shadow' style={{borderRadius:'50%',boxShadow:'5px 5px 5px'}}
             />
           </MDBNavbarBrand>
         </MDBContainer>
